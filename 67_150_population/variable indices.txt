@@ -1,0 +1,15 @@
+Here is the population of 786 creatures sampled between 67-150% of key currents used in the first paper on T-World.
+This is described by multipliers of the following currents, stored in AcceptedParameters, where rows are different cells, and columns correspond to different currents:
+
+1) model id
+2) INa multiplier
+3) INaL multiplier
+4) Itof multiplier
+5) ICaL multiplier
+6) IKr multiplier
+7) IKs multiplier
+8) IK1 multiplier
+9) NCX (INaCa) multiplier
+10) NKA (INaK) multiplier
+11) Jrel multiplier
+12) Jup multiplier
